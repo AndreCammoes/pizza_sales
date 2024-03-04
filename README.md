@@ -41,5 +41,6 @@ Business Tasks
 
 General View
 To start of let´s look how things went during the year. In the year of 2015, wich is the year analyzed , "Tony´s Pizza Restaurant" sold a total of 49.574 pizzas wich represented a total revenue of 817.860 USD. During this period 21350 orders were made , meaning that that in average 2,32 pizzas were requested by order and the average value of wich order was 38,31USD.
+
 ![gt1](https://github.com/AndreCammoes/pizza_sales/assets/160741788/342f0253-9e23-4b8a-8a80-f5c8941ede8b)
 
