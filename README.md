@@ -54,6 +54,9 @@ In terms of the busiest months ,July was the month where the most orders were re
 
 The days that registered the highest amount of volume orders were the Fridays , with a total of 3500 orders followed by the Saturdays and Thursdays were both days registered around the same amount of orders wich was around 3200. Tuesdays and Wendnesdays also matched in terms of orders requests , with 3000 each , and finally the calmest days in the restaurant were Mondays and Sundays with 2800 and 2600 resquested orders repectively.
 
+![git3](https://github.com/AndreCammoes/pizza_sales/assets/160741788/69b0570f-0722-4311-ba33-0aa75d5b877e)
+
+
 
 
 
