@@ -44,3 +44,9 @@ To start of let´s look how things went during the year. In the year of 2015, wi
 
 ![gt1](https://github.com/AndreCammoes/pizza_sales/assets/160741788/342f0253-9e23-4b8a-8a80-f5c8941ede8b)
 
+2-Montlhy order performance
+In terms of the busiest months ,July was the month where the most orders were registered adding a total of 1935 orders. The months of January , March, April, May, August and December had similiar performances , where the numbers of orders floated between 1773 and 1853. In the order hand the months with the lowest volume of orders were February with 1685 registered orders, followed by December with 1680 orders and finally September and October with 1661 and 1646 respectively.
+
+
+
+
