@@ -74,6 +74,14 @@ The days that registered the highest amount of volume orders were the Fridays , 
 
  ![image](https://github.com/AndreCammoes/pizza_sales/assets/160741788/71f61a38-fffa-408d-b813-5d56b2150adc)
 
+ 7- Wich pizzas sizes sold the most and the least?
+
+ About the pizzas sizes that sold the most , we got in first place the the size Large that sold about 19000 units , follwed by the medium size with 16000 units sold , the third pizza size that sold the most was the regular with 14000 units sold and in last place with only 1000 units sold is the X-Large. No pizza size XX-Large was registered.
+
+ 
+
+ 
+
 
  
 
