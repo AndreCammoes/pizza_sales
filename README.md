@@ -59,6 +59,8 @@ The days that registered the highest amount of volume orders were the Fridays , 
 
  As shown in the last topic , Friday is the day of the week where the restaurant has more activity. In total 8200 pizzas were sold on Fridays , followed by Thursdays and Saturdays where both days registered the same amout of sold pizzas wich was around 7500 units each.
 
+ ![git5](https://github.com/AndreCammoes/pizza_sales/assets/160741788/a074fb1d-96fe-432e-8a18-20cb03c72888)
+
  
 
 
