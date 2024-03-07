@@ -61,6 +61,13 @@ The days that registered the highest amount of volume orders were the Fridays , 
 
  ![git5](https://github.com/AndreCammoes/pizza_sales/assets/160741788/a074fb1d-96fe-432e-8a18-20cb03c72888)
 
+ 5- Worst and best selling pizzas
+
+ In terms of the most sold pizzas we got in 5th place The Thai Chicken Pizza, with 2371 pizzas sold , in 4th place The Pepperoni pizza with 2418 units sold , in 3rd position The Hawaiin Pizza that registered 2422 units sold and in 2nd and 1st place the The Barbecaue Chicken Pizza and the The Classic Deluxe Pizza that sold 2432 and 2453 respcetvily.
+ In the other hand , the pizza the sold the least was the The Brie Carre Pizza that sold only 490 units, followed by The Mediterranean Pizza ,The Calebrese Pizza , The Spinach Supreme Pizza and The Soppressata Pizza.
+
+ 
+
  
 
 
