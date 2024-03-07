@@ -72,6 +72,9 @@ The days that registered the highest amount of volume orders were the Fridays , 
 
  The pizza category that showed the most sucess was the Classic one. This pizza category represent almost one third of all the sales (30,03%) and sold around 15000 units. In the second place we got category of supreme that sold around 12000 units (24,18% of the total) , and in third place with a business value very close of the second place is the Veggie , wich also sold close to 12000 units (23,50% of the total). In last place we got the Chicken category wich only sold 11000 units and represented 22,29% of the total pizzas category sales.
 
+ ![image](https://github.com/AndreCammoes/pizza_sales/assets/160741788/71f61a38-fffa-408d-b813-5d56b2150adc)
+
+
  
 
  
